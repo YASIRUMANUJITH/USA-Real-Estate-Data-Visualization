@@ -1,5 +1,8 @@
 # USA Real Estate Data Visualization
 
+<img width="905" height="354" alt="Pink and Blue New York City General News Instagram Post" src="https://github.com/user-attachments/assets/bb721fe9-1f36-45fb-b1c0-301b44b3370a" />
+
+
 A data-driven project that analyzes and visualizes real estate trends across the United States using modern data science and visualization tools.
 
 ## Overview
